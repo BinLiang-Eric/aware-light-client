@@ -1,4 +1,4 @@
-//shared with all modules
+se//shared with all modules
 buildscript {
     ext {
         mqtt_libs = '1.2.1'

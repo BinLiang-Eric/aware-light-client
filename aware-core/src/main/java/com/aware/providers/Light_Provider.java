@@ -26,7 +26,7 @@ import java.util.HashMap;
  *
  * @author denzil
  */
-public class Light_Provider extends ContentProvider {
+public class    Light_Provider extends ContentProvider {
 
     public static final int DATABASE_VERSION = 3;
 
